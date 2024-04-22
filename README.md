@@ -1,0 +1,1 @@
+# Laiskimus's NeoVim Config
